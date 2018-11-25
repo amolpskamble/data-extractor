@@ -1,0 +1,22 @@
+{
+    "name": "data-extractor",
+    "description": "Data Extractor",
+    "version": "0.1.0",
+    "homepage": "https://github.com/amolpskamble/data-extractor",
+    "repository": "git://github.com/amolpskamble/data-extractor",
+    "main": "lib/index.js",
+    "keywords": [
+        "data",
+        "extractor"
+    ],
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+    "scripts": {
+
+    },
+    "license": "MIT License"
+}
