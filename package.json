@@ -9,14 +9,10 @@
         "data",
         "extractor"
     ],
-    "dependencies": {
-
-    },
+    "dependencies": {},
     "devDependencies": {
-
+        "standard": "^12.0.1"
     },
-    "scripts": {
-
-    },
+    "scripts": {},
     "license": "MIT License"
 }
