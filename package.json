@@ -16,6 +16,9 @@
         "mocha": "^5.2.0",
         "standard": "^12.0.1"
     },
-    "scripts": {},
+    "scripts": {
+        "test": "mocha",
+        "cover": "istanbul cover _mocha"
+    },
     "license": "MIT License"
 }
