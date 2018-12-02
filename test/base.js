@@ -8,7 +8,7 @@ describe('Data extractor base function testing', function() {
         lib.should.be.a('function')
         done()
     });
-    it('It should return return true', function(done) {
+    it('It should return true', function(done) {
         lib().should.be.eq(true)
         done()
     });
